@@ -2,7 +2,9 @@
 #include <stdio.h>
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-getchar();
-return (0);
+
+  // Priting a string using a the puts function
+  puts("\"Programming is like building a multilingual puzzle");
+  getchar();
+  return (0);
 }
