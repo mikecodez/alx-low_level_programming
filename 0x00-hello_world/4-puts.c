@@ -1,7 +1,10 @@
 
 #include <stdio.h>
 
-/* A C-program that uses the puts function to write a string */
+/**
+ * puts function: prints outs strings
+ * A C-program that uses the puts function to write a string
+ */
 
 int main(void)
 {
