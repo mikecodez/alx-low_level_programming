@@ -3,7 +3,7 @@
 int main(void)
 {
 
-  // Priting a string using a the puts function
+  /* Priting a string using a the puts function */
   puts("\"Programming is like building a multilingual puzzle");
   getchar();
   return (0);
