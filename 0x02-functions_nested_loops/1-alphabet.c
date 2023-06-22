@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * main - write the alphabet
- * Description: 'Prints out the alphabet'
- * Return: void
- */
+* main - write the alphabet
+* Description: 'Prints out the alphabet'
+* Return: void
+*/
+
 void print_alphabet(void)
 {
 char c;
